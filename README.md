@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Shagun Sharma
 #### I am an Android Developer
-![I am an Android Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am an Android Developer](https://github.com/Shagun15/Shagun15/blob/master/BLAH.png)
 
 I am 2nd year student. I love making projects on android and always ready to contribute in different projects.
 
