@@ -3,7 +3,7 @@
 #### I am an Android Developer
 ![I am an Android Developer](https://github.com/Shagun15/Shagun15/blob/master/BLAH.png)
 
-I am 2nd year student. I love making projects on android and always ready to contribute in different projects.
+I am 3nd year student. I love making projects on android and always ready to contribute in different projects.
 
 Skills: java/android development/git
 
