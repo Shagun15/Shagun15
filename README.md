@@ -1,15 +1,15 @@
 
 ### Hi there 👋, my name is Shagun Sharma
-#### I am an Android Developer
-![I am an Android Developer](https://github.com/Shagun15/Shagun15/blob/master/BLAH.png)
+#### I am an Software Developer
+![I am an Software Developer](https://github.com/Shagun15/Shagun15/blob/master/BLAH.png)
 
-I am 3nd year student. I love making projects on android and always ready to contribute in different projects.
+I am 4th year student. I love making projects ,solving problems and acquiring althogether new skills and always ready to contribute.
 
 Skills: java/android development/git
 
-- 🔭 I’m currently working on Miwok language translation app 
-- 🌱 I’m currently learning different libraries in android 
-- 👯 I’m looking to collaborate on android projects 
+- 🔭 I’m currently working on problem solving(DSA, Full-stack Development)
+- 🌱 I’m currently learning different libraries in python 
+- 👯 I’m looking to collaborate on different projects 
 - 💬 Ask me about anything 
 - 📫 How to reach me: shaguns1501@gmail.com 
 - 😄 Pronouns: her/she 
