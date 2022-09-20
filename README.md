@@ -5,7 +5,7 @@
 
 I am 4th year student. I love making projects ,solving problems and acquiring althogether new skills and always ready to contribute.
 
-Skills: java/android development/git
+Skills: java/c++/python/Html/CSS/android development/git
 
 - 🔭 I’m currently working on problem solving(DSA, Full-stack Development)
 - 🌱 I’m currently learning different libraries in python 
